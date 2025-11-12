@@ -18,9 +18,8 @@ The text aims to balance **physical intuition** with **mathematical structure**,
 
 ### Context
 
-Written in 2025 after I completed Part III of the Mathematical Tripos.  
-Intended as an accessible resource for students encountering relativity from a non-physics background.  
+Written in 2025 after completing Part III of the Mathematical Tripos. So, it is written to the level expected for someone about to undertake a QFT course at Cambridge. It is mainly intended as an accessible resource for students encountering relativity from a non-physics background.  
 
-The document is pedagogical rather than research-oriented, but it reflects my interest in **mathematical physics**, **geometric formulations of QFT**, and **clear exposition**.
+The document is pedagogical rather than research-oriented, but it reflects my broad interest in **mathematical physics**, **geometric formulations of QFT**, and **clear exposition**.
 
 If you do come across any errors while reading, please do feel free to email me at dylansion38@gmail.com. 
