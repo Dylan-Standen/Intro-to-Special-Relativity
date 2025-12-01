@@ -27,7 +27,7 @@ If you do come across any errors while reading, please feel free to email me at 
 
 ### Contents
 
-`Introduction_to_Special_Relativity.pdf` - Most recently compiled version
-`intro_special_rel.tex` - LaTeX source
+- `Introduction_to_Special_Relativity.pdf` - Most recently compiled version
+- `intro_special_rel.tex` - LaTeX source
 
 
