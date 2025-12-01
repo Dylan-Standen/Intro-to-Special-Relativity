@@ -25,3 +25,9 @@ The document is pedagogical rather than research-oriented, and is mainly intende
 
 If you do come across any errors while reading, please feel free to email me at **dylansion38@gmail.com**.
 
+### Contents
+
+`Introduction_to_Special_Relativity.pdf` - Most recently compiled version
+`intro_special_rel.tex` - LaTeX source
+
+
