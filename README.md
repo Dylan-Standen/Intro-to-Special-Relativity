@@ -7,7 +7,7 @@ It gives a concise but mathematically grounded overview of:
 - Minkowski space and the Lorentzian metric
 - Tangent and cotangent bundles
 - The Lorentz group and its Lie algebra
-- Finite-dimensional representations of \(SO^+(1,3)\)
+- Finite-dimensional representations of $SO^+(1,3)$
 - Relativistic dynamics and the energy–momentum tensor
 - Maxwell theory in covariant form and gauge symmetry
 
